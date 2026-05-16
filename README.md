@@ -99,9 +99,9 @@ Add screenshots of your portfolio here.
 
 ## Atrima Bhattacharyya
 
-- LinkedIn: https://linkedin.com/
-- GitHub: https://github.com/
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/atrima-bhattacharyya-15111a2a9/
+- GitHub: https://github.com/@atrimabhatta
+- Email: atrima.bhattacharyya7642@gmail.com
 
 ---
 
