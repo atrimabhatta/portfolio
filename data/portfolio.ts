@@ -10,7 +10,7 @@ export const personalInfo = {
   email: "atrima.bhattacharyya7642@gmail.com",
   phone: "+91-7890917642",
   github: "https://github.com/atrimabhatta",
-  linkedin: "https://linkedin.com/in/atrima-bhattacharyya",
+  linkedin: "https://www.linkedin.com/in/atrima-bhattacharyya-15111a2a9/",
   resumeUrl: "C:\Users\dell\.vscode\atrima-portfolio-v2\public\ab.pdf",
   highlights: [
     "AI/ML Systems",
