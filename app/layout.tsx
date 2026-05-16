@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+// @ts-ignore: allow global CSS import in Next.js layout
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -12,8 +13,10 @@ export const metadata: Metadata = {
     description: "Building intelligent systems at the intersection of AI and human experience.",
     type: "website",
   },
+  icons: {
+    icon: "/icon.png",
+  },
 };
-
 export default function RootLayout({
   children,
 }: {
